@@ -1,5 +1,5 @@
 # Amazon-fine-food-review-analysis
-Given a review , determine whether the review is positive(rating of 4 or 5) or negative (rating of 1 or 2)
+Given a review , determine whether the review is positive(rating of 4 or 5) or negative (rating of 1 or 2) , here basically I have done data visualization and data analysis.
 
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
